@@ -3,6 +3,7 @@ import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import { Calendar, MapPin, Users, ArrowRight } from 'lucide-react';
 import { Link } from "react-router-dom";
+import LazyImage from "../components/LazyImage";
 
 // Data for Gastronomia destinations
 const gastronomiaDestinations = [
