@@ -36,13 +36,13 @@ const destinationsData = {
       price: 'A partir de R$ 3.199',
     }
   ],
-  ecoturismo: [
+  'viagens-corporativas': [
     {
       id: 5,
-      title: 'Pantanal, Mato Grosso',
-      image: 'https://images.unsplash.com/photo-1552083375-1447ce886485?q=80&w=2070&auto=format&fit=crop',
-      description: 'Maior planície alagada do mundo, com rica biodiversidade e experiências únicas de observação da fauna.',
-      price: 'A partir de R$ 3.599',
+      title: 'São Paulo, SP',
+      image: 'https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=2070&auto=format&fit=crop',
+      description: 'Experiências corporativas personalizadas para empresas que buscam integração de equipes e networking de alto nível.',
+      price: 'A partir de R$ 4.599',
     }
   ],
   gastronomia: [
@@ -59,14 +59,14 @@ const destinationsData = {
 const categoryLabels = {
   aventura: 'Aventura',
   cultural: 'Cultural',
-  ecoturismo: 'Ecoturismo',
+  'viagens-corporativas': 'Viagens Corporativas',
   gastronomia: 'Gastronomia'
 };
 
 const categoryRoutes = {
   aventura: '/aventura',
   cultural: '/cultural',
-  ecoturismo: '/ecoturismo',
+  'viagens-corporativas': '/viagens-corporativas',
   gastronomia: '/gastronomia',
 };
 

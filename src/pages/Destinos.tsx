@@ -126,7 +126,7 @@ const categories = [
   { id: 'aventura', label: 'Aventura', color: 'emerald' },
   { id: 'cultural', label: 'Cultural', color: 'purple' },
   { id: 'espiritual', label: 'Espiritual', color: 'blue' },
-  { id: 'ecoturismo', label: 'Ecoturismo', color: 'green' },
+  { id: 'viagens-corporativas', label: 'Viagens Corporativas', color: 'indigo' },
   { id: 'gastronomia', label: 'Gastronomia', color: 'orange' },
   { id: 'lua-de-mel', label: 'Lua de Mel', color: 'pink' }
 ];
@@ -147,7 +147,7 @@ const Destinos = () => {
       aventura: 'bg-emerald-100 text-emerald-800',
       cultural: 'bg-purple-100 text-purple-800',
       espiritual: 'bg-blue-100 text-blue-800',
-      ecoturismo: 'bg-green-100 text-green-800',
+      'viagens-corporativas': 'bg-indigo-100 text-indigo-800',
       gastronomia: 'bg-orange-100 text-orange-800',
       'lua-de-mel': 'bg-pink-100 text-pink-800'
     };
@@ -159,7 +159,7 @@ const Destinos = () => {
       aventura: 'Aventura',
       cultural: 'Cultural',
       espiritual: 'Espiritual',
-      ecoturismo: 'Ecoturismo',
+      'viagens-corporativas': 'Viagens Corporativas',
       gastronomia: 'Gastronomia',
       'lua-de-mel': 'Lua de Mel'
     };

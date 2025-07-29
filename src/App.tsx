@@ -11,7 +11,7 @@ import Aventura from "./pages/Aventura";
 import Cultural from "./pages/Cultural";
 import Espiritual from "./pages/Espiritual";
 import LuaDeMel from "./pages/LuaDeMel";
-import Ecoturismo from "./pages/Ecoturismo";
+import ViagensCorporativas from "./pages/ViagensCorporativas";
 import Gastronomia from "./pages/Gastronomia";
 import NotFound from "./pages/NotFound";
 import Contato from "./pages/Contato";
@@ -32,7 +32,7 @@ const App = () => (
           <Route path="/cultural" element={<Cultural />} />
           <Route path="/espiritual" element={<Espiritual />} />
           <Route path="/lua-de-mel" element={<LuaDeMel />} />
-          <Route path="/ecoturismo" element={<Ecoturismo />} />
+          <Route path="/viagens-corporativas" element={<ViagensCorporativas />} />
           <Route path="/gastronomia" element={<Gastronomia />} />
           <Route path="/contato" element={<Contato />} />
           <Route path="/destinos" element={<Destinos />} />
