@@ -33,7 +33,7 @@ const Navbar = () => {
           <nav className="hidden md:flex items-center space-x-8">
             <a href="#" className="font-medium text-gray-900 hover:text-primary transition-colors">Início</a>
             <a href="#destinations" className="font-medium text-gray-900 hover:text-primary transition-colors">Destinos</a>
-            <a href="#contact" className="font-medium text-gray-900 hover:text-primary transition-colors">Contato</a>
+            <a href="https://api.whatsapp.com/message/VAQWXCNDIPPAH1?autoload=1&app_absent=0" target="_blank" rel="noopener noreferrer" className="font-medium text-gray-900 hover:text-primary transition-colors">Contato</a>
             <a href="https://api.whatsapp.com/message/VAQWXCNDIPPAH1?autoload=1&app_absent=0" target="_blank" rel="noopener noreferrer">
               <button className="btn-primary">Reserve Agora</button>
             </a>
@@ -51,7 +51,7 @@ const Navbar = () => {
         <div className="container mx-auto px-4 flex flex-col space-y-4">
           <a href="#" className="px-4 py-2 font-medium text-gray-900 hover:bg-gray-100 rounded-lg">Início</a>
           <a href="#destinations" className="px-4 py-2 font-medium text-gray-900 hover:bg-gray-100 rounded-lg">Destinos</a>
-          <a href="#contact" className="px-4 py-2 font-medium text-gray-900 hover:bg-gray-100 rounded-lg">Contato</a>
+          <a href="https://api.whatsapp.com/message/VAQWXCNDIPPAH1?autoload=1&app_absent=0" target="_blank" rel="noopener noreferrer" className="px-4 py-2 font-medium text-gray-900 hover:bg-gray-100 rounded-lg">Contato</a>
           <a href="https://api.whatsapp.com/message/VAQWXCNDIPPAH1?autoload=1&app_absent=0" target="_blank" rel="noopener noreferrer">
             <button className="btn-primary mx-4">Reserve Agora</button>
           </a>
