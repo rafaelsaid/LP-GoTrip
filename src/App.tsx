@@ -15,6 +15,7 @@ import Ecoturismo from "./pages/Ecoturismo";
 import Gastronomia from "./pages/Gastronomia";
 import NotFound from "./pages/NotFound";
 import Contato from "./pages/Contato";
+import Destinos from "./pages/Destinos";
 
 const queryClient = new QueryClient();
 
@@ -34,6 +35,7 @@ const App = () => (
           <Route path="/ecoturismo" element={<Ecoturismo />} />
           <Route path="/gastronomia" element={<Gastronomia />} />
           <Route path="/contato" element={<Contato />} />
+          <Route path="/destinos" element={<Destinos />} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
         </Routes>
