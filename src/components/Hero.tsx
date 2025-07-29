@@ -19,11 +19,10 @@ const Hero = () => {
         <div className="max-w-3xl animate-fade-in">
           <h4 className="text-white/80 text-lg md:text-xl mb-2">Descubra o Mundo</h4>
           <h1 className="text-4xl md:text-6xl font-bold text-white mb-6">
-            Viagens Inesquecíveis para Destinos de Sonho
+            Destinos incríveis começam aqui!
           </h1>
           <p className="text-white/90 text-lg md:text-xl mb-8 max-w-2xl">
-            Planeje sua próxima aventura com a Go Trip! e viva experiências únicas
-            em destinos extraordinários ao redor do mundo.
+          Planeje sua próxima viagem com a Go Trip! e viva experiências únicas em destinos extraordinários ao redor do mundo.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
             <a href="#destinations" className="btn-primary px-8 py-3 text-lg">

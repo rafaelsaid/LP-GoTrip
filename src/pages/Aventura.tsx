@@ -188,7 +188,9 @@ const Aventura = () => {
                   
                   <div className="flex justify-between items-center mt-6">
                     <span className="text-sm text-gray-500">{destination.activities.join(' • ')}</span>
-                    <button className="btn-primary text-sm py-2 px-4">Ver Detalhes</button>
+                    <a href="https://api.whatsapp.com/message/VAQWXCNDIPPAH1?autoload=1&app_absent=0" target="_blank" rel="noopener noreferrer">
+                      <button className="btn-primary text-sm py-2 px-4">Ver Detalhes</button>
+                    </a>
                   </div>
                 </div>
               </div>

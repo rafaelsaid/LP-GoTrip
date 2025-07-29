@@ -77,9 +77,7 @@ const Destinations = () => {
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-amber-500 mb-6">Descubra o Mundo</h2>
           <p className="text-gray-700 max-w-4xl mx-auto text-lg leading-relaxed mb-8">
-            Embarque conosco nesta experiência única, conheça destinos que desafiam o convencional, mergulhe em culturas vibrantes,
-            conecte-se espiritualmente e saboreie a autenticidade gastronômica de cada lugar. Ateliê especializado em viagens de
-            experiência, românticas e de lua de mel.
+          Embarque conosco nesta experiência única, conheça destinos que desafiam o convencional, mergulhe em culturas vibrantes, conecte-se a novas culturas e saboreie a autenticidade gastronômica de cada lugar.
           </p>
           <a
             href="https://api.whatsapp.com/message/VAQWXCNDIPPAH1?autoload=1&app_absent=0"

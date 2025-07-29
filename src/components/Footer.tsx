@@ -47,22 +47,22 @@ Sua jornada começa aqui.</p>
             <h3 className="text-lg font-semibold mb-4 border-b border-gray-700 pb-2">Destinos Populares</h3>
             <ul className="space-y-2">
               <li>
-                <a href="#" className="text-gray-400 hover:text-white transition-colors">Rio de Janeiro</a>
+                <a href="https://api.whatsapp.com/message/VAQWXCNDIPPAH1?autoload=1&app_absent=0" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">Rio de Janeiro</a>
               </li>
               <li>
-                <a href="#" className="text-gray-400 hover:text-white transition-colors">Fernando de Noronha</a>
+                <a href="https://api.whatsapp.com/message/VAQWXCNDIPPAH1?autoload=1&app_absent=0" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">Fernando de Noronha</a>
               </li>
               <li>
-                <a href="#" className="text-gray-400 hover:text-white transition-colors">Gramado</a>
+                <a href="https://api.whatsapp.com/message/VAQWXCNDIPPAH1?autoload=1&app_absent=0" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">Gramado</a>
               </li>
               <li>
-                <a href="#" className="text-gray-400 hover:text-white transition-colors">Lençóis Maranhenses</a>
+                <a href="https://api.whatsapp.com/message/VAQWXCNDIPPAH1?autoload=1&app_absent=0" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">Lençóis Maranhenses</a>
               </li>
               <li>
-                <a href="#" className="text-gray-400 hover:text-white transition-colors">Bonito</a>
+                <a href="https://api.whatsapp.com/message/VAQWXCNDIPPAH1?autoload=1&app_absent=0" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">Bonito</a>
               </li>
               <li>
-                <a href="#" className="text-gray-400 hover:text-white transition-colors">Chapada Diamantina</a>
+                <a href="https://api.whatsapp.com/message/VAQWXCNDIPPAH1?autoload=1&app_absent=0" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">Chapada Diamantina</a>
               </li>
             </ul>
           </div>

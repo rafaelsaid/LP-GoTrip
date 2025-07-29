@@ -12,7 +12,7 @@ const LazyImage: React.FC<LazyImageProps> = ({
   src,
   alt,
   className = '',
-  placeholderSrc = '/placeholder.svg'
+  placeholderSrc = '/LP-GoTrip/placeholder.svg'
 }) => {
   const [imageSrc, setImageSrc] = useState(placeholderSrc);
   const [imageRef, setImageRef] = useState<HTMLImageElement | null>(null);
