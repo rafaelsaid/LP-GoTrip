@@ -127,7 +127,7 @@ const categories = [
   { id: 'cultural', label: 'Cultural', color: 'purple' },
   { id: 'espiritual', label: 'Espiritual', color: 'blue' },
   { id: 'viagens-corporativas', label: 'Viagens Corporativas', color: 'indigo' },
-  { id: 'gastronomia', label: 'Gastronomia', color: 'orange' },
+  { id: 'consultoria-personalizada', label: 'Consultoria Personalizada e Exclusiva', color: 'teal' },
   { id: 'lua-de-mel', label: 'Lua de Mel', color: 'pink' }
 ];
 
@@ -148,7 +148,7 @@ const Destinos = () => {
       cultural: 'bg-purple-100 text-purple-800',
       espiritual: 'bg-blue-100 text-blue-800',
       'viagens-corporativas': 'bg-indigo-100 text-indigo-800',
-      gastronomia: 'bg-orange-100 text-orange-800',
+      'consultoria-personalizada': 'bg-teal-100 text-teal-800',
       'lua-de-mel': 'bg-pink-100 text-pink-800'
     };
     return colors[category as keyof typeof colors] || 'bg-gray-100 text-gray-800';
@@ -160,7 +160,7 @@ const Destinos = () => {
       cultural: 'Cultural',
       espiritual: 'Espiritual',
       'viagens-corporativas': 'Viagens Corporativas',
-      gastronomia: 'Gastronomia',
+      'consultoria-personalizada': 'Consultoria Personalizada e Exclusiva',
       'lua-de-mel': 'Lua de Mel'
     };
     return labels[category as keyof typeof labels] || category;

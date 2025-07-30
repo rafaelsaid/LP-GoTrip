@@ -45,13 +45,13 @@ const destinationsData = {
       price: 'A partir de R$ 4.599',
     }
   ],
-  gastronomia: [
+  'consultoria-personalizada': [
     {
       id: 6,
-      title: 'São Paulo, SP',
-      image: 'https://images.unsplash.com/photo-1414235077428-338989a2e8c0?q=80&w=2070&auto=format&fit=crop',
-      description: 'Capital gastronômica do Brasil, com restaurantes premiados e diversidade culinária internacional.',
-      price: 'A partir de R$ 2.899',
+      title: 'Experiências Sob Medida',
+      image: 'https://images.unsplash.com/photo-1556761175-b413da4baf72?q=80&w=2070&auto=format&fit=crop',
+      description: 'Consultoria especializada para criar experiências de viagem totalmente personalizadas e exclusivas.',
+      price: 'Sob consulta',
     }
   ]
 };
@@ -60,14 +60,14 @@ const categoryLabels = {
   aventura: 'Aventura',
   cultural: 'Cultural',
   'viagens-corporativas': 'Viagens Corporativas',
-  gastronomia: 'Gastronomia'
+  'consultoria-personalizada': 'Consultoria Personalizada e Exclusiva'
 };
 
 const categoryRoutes = {
   aventura: '/aventura',
   cultural: '/cultural',
   'viagens-corporativas': '/viagens-corporativas',
-  gastronomia: '/gastronomia',
+  'consultoria-personalizada': '/consultoria-personalizada',
 };
 
 const Destinations = () => {
